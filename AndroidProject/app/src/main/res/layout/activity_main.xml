@@ -20,32 +20,7 @@
             android:orientation="vertical"
             android:background="#FFFFFF"
             android:layout_weight="1"
-            android:padding="10pt">
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="사람"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:layout_margin="0pt"/>
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="동물"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:layout_margin="0pt"/>
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="사물"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:layout_margin="0pt"/>
-        </LinearLayout>
+            android:padding="10pt"/>
         <LinearLayout
             android:id="@+id/ll_start"
             android:layout_width="match_parent"
